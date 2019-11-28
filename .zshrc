@@ -68,7 +68,18 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git vi-mode zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git
+  vi-mode
+  zsh-autosuggestions
+  archlinux
+  common-aliases
+  extract
+  sudo
+  systemd
+  vscode
+  zsh-syntax-highlighting
+  emoji
+)
 KEYTIMEOUT=1
 
 source $ZSH/oh-my-zsh.sh
@@ -99,7 +110,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias manuali3="xdg-open /usr/share/doc/manjaro/i3_help.pdf"
-alias vim="nvim"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ -f ~/.p10k.zsh ]] && source ~/.p10k.zsh
