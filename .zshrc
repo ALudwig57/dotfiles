@@ -114,3 +114,4 @@ alias manuali3="xdg-open /usr/share/doc/manjaro/i3_help.pdf"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ -f ~/.p10k.zsh ]] && source ~/.p10k.zsh
 export EDITOR=vim
+source /home/alex/.Sublivim/sublivimrc.sh
