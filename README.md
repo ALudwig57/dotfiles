@@ -1,4 +1,4 @@
-#Configuration dotfiles for my Manjaro i3 installation, for sharing, versioning, saving, and restoring. :)
+# Configuration dotfiles for my Manjaro i3 installation, for sharing, versioning, saving, and restoring. :)
 
 Here are dotfiles for:
 - Ranger file explorer.
