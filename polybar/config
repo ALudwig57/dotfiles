@@ -26,9 +26,9 @@ background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
-primary = #2db300
+primary = #50FA7B
 secondary = #e60053
-alert = #E5201D
+alert = #FF5555
 
 [bar/example]
 ;monitor = ${env:MONITOR:HDMI-1}
@@ -259,8 +259,8 @@ ramp-capacity-3 = 
 ramp-capacity-4 = 
 ramp-capacity-foreground = ${colors.foreground}
 ramp-capacity-2-foreground = #f5a70a
-ramp-capacity-1-foreground = #E5201D
-ramp-capacity-0-foreground = #E5201D
+ramp-capacity-1-foreground = #FF5555
+ramp-capacity-0-foreground = #FF5555
 
 animation-charging-0 = 
 animation-charging-1 = 
