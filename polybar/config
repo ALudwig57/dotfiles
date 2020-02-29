@@ -21,7 +21,7 @@
 [colors]
 ;background = ${xrdb:color0:#222}
 ;background = #222
-background = #aa2F343F
+background = #AA2F343F
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
@@ -38,7 +38,7 @@ height = 25
 ;offset-y = 1%
 radius = 0.0
 fixed-center = false
-bottom=true
+bottom=false
 
 background = ${colors.background}
 foreground = ${colors.foreground}
